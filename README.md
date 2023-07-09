@@ -1,6 +1,7 @@
 # NoSQL - Module 12 Challenge
 ## Instructions
 The UK Food Standards Agency evaluates various establishments across the United Kingdom, and gives them a food hygiene rating. You've been contracted by the editors of a food magazine, Eat Safe, Love, to evaluate some of the ratings data in order to help their journalists and food critics decide where to focus future articles.
+![download](https://github.com/CBURKHARDT47/nosql-challenge/assets/128064003/8a08283f-73b4-481f-9bc3-b8f786cc4665)
 
 ## Part 1: Database and Jupyter Notebook Set Up
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
